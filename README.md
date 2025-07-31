@@ -158,9 +158,10 @@ Ao rodar:
 
 Test run for GoogleTitleTest.dll (.NETCoreApp,Version=v7.0)
 Starting test execution, please wait...
-✔ Valida título da página do Google
+GoogleTitleTest teste êxito (5,4s)
 
-Total tests: 1. Passed: 1. Failed: 0. Skipped: 0
+Resumo do teste: total: 2; falhou: 0; bem-sucedido: 2; ignorado: 0; duração: Xs
+Construir êxito em Xs
 ```
 
 ---

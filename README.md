@@ -158,7 +158,7 @@ Ao rodar:
 
 Test run for GoogleTitleTest.dll (.NETCoreApp,Version=v7.0)
 Starting test execution, please wait...
-GoogleTitleTest teste êxito (5,4s)
+GoogleTitleTest teste êxito (Xs)
 
 Resumo do teste: total: 2; falhou: 0; bem-sucedido: 2; ignorado: 0; duração: Xs
 Construir êxito em Xs
